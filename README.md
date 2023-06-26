@@ -3,6 +3,7 @@
 <li>Head First 2D Geometry</li>
 <li>Head First EJB - Kathy Sierra e Bert Bates</li>
 <li>Head First HTML5 Programming Building Web Apps with JavaScript</li>
+<li>Head First JavaScript Programming (Latest Edition)</li>
 <li>Head First PMP 2nd Edition (2009)</li>
 <li>Head First Python</li>
 <li>Head First Rails</li>
